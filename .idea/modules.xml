@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Wificonnect.iml" filepath="$PROJECT_DIR$/Wificonnect.iml" group="Wificonnect" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Wificonnect/app" />
+      <module fileurl="file://$PROJECT_DIR$/qnwificonnection/qnwificonnection.iml" filepath="$PROJECT_DIR$/qnwificonnection/qnwificonnection.iml" group="Wificonnect/qnwificonnection" />
+    </modules>
+  </component>
+</project>
